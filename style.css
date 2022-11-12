@@ -12,10 +12,6 @@ h1 {
 span {
   color: grey;
 }
-img {
-  width: 180px;
-  height: 18Opx;
-}
 
 section,
 header {
@@ -46,4 +42,8 @@ header li {
 }
 .circle {
   border-radius: 50%;
+}
+.profile picture {
+  width: 180px;
+  height: 180px;
 }
