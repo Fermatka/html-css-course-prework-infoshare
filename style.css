@@ -84,6 +84,7 @@ p {
   display: inline-block;
   margin-top: 20px;
   border-radius: 26px;
+  transition: background-color 0.5s;
 }
 .cv-download-link:hover {
   color: white;
