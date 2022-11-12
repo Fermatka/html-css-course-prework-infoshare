@@ -89,3 +89,11 @@ p {
   color: white;
   background-color: cornflowerblue;
 }
+.cv-download-link:focus {
+  outline: none;
+  color: white;
+  background-color: cornflowerblue;
+}
+.cv-download-link:active {
+  text-decoration: underline;
+}
