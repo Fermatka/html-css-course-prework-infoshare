@@ -85,3 +85,7 @@ p {
   margin-top: 20px;
   border-radius: 26px;
 }
+.cv-download-link:hover {
+  color: white;
+  background-color: cornflowerblue;
+}
