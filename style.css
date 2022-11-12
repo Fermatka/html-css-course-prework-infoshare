@@ -47,3 +47,7 @@ header li {
   width: 180px;
   height: 180px;
 }
+.hobbies {
+  list-style: none;
+  padding: 0;
+}
